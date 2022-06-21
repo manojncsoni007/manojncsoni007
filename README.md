@@ -11,11 +11,6 @@ Front End Developer from India
 * 🧠  I'm learning React by building real world projects
 * ⚡  I love to talk & make a video on business and startup
 
-<a href="https://www.twitter.com/manojncsoni" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/manojncsoni?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/manojncsoni007" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/manojncsoni007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
