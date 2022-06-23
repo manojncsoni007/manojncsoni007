@@ -7,7 +7,7 @@ Front End Developer from India
 * 🌍  I'm based in Gujarat, India
 * 🖥️  See my portfolio at [My Portfolio](http://manojsoni.netlify.app/)
 * ✉️  You can contact me at [manojncsoni@gmail.com](mailto:manojncsoni@gmail.com)
-* 🚀  I'm currently working on [RedX Video Library](http://redx-videos.netlify.app)
+* 🚀  I'm currently working on [NoteBeat (Note taking app)](https://notebeat.netlify.app/)
 * 🧠  I'm learning React by building real world projects
 * ⚡  I love to talk & make a video on business and startup
 
