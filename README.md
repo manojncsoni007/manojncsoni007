@@ -4,7 +4,7 @@ Hi 👋 My name is Manoj Soni
 Front End Developer from India
 ------------------------------
 
-* 🌍  I'm based in Gujarat, India
+* 🌍  I'm based in Ahmedabad, Gujarat, India
 * 🖥️  See my portfolio at [My Portfolio](http://manojsoni.netlify.app/)
 * ✉️  You can contact me at [manojncsoni@gmail.com](mailto:manojncsoni@gmail.com)
 * 🚀  I'm currently working on [NoteBeat (Note taking app)](https://notebeat.netlify.app/)
